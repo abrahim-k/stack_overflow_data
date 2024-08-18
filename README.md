@@ -2,7 +2,7 @@
 
 This project includes a Exploratory Data Analysis (EDA) of responses gathered in Stack Overflow Annual Developers' Survey in May 2023. Here, we focus on **Iranian developers** who have responded to the survey and we are going to extract and visualize some useful data about developers who have a significant impact on **the purchase of new technologies** in their organization. The dataset is taken from [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/); also, CSV files of other years from 2011 are available there.
 
-#### It is worth noting that packages `numpy`, `pandas`, `matplotlib` and `seaborn` are used from Python Data Stack in this project.
+#### It is worth noting that packages `numpy`, `pandas`, `matplotlib` and `seaborn` are used from Python Data Stack in this project. The project `.ipynb` file is available [here](https://github.com/abrahim-k/stack_overflow_data/blob/main/stack_overflow.ipynb)
 
 This analysis can be valuable for those companies aiming to sell tech products to software companies and freelance developers in Iran. To achieve this goal, we will focus on three categories of questions:
 
@@ -31,7 +31,7 @@ Or these are heatmaps of correlations calculated:
 
 ![high influence developers heatmap](images/some_heatmap.png)
 
-And this is the conclusion we reachead finally:
+And this is the conclusion we have reachead finally:
 
 Firstly, we know that vast majority of both groups of developers work **full-time**; second comes self-employed developers and part-time employees do not have much saying when it comes to purchasing new technologies. Moreover, the vast majority of developers fall into one of three categories: full-stack developers, back-end developers, or front-end developers. Among those with a high influence, **full-stack developers** are more prevalent, while among those with some influence, the majority are **back-end developers**. The majority of those with high influence have **eight years** of professional experience, while those with some influence typically have **five years**. Additionally, the majority of developers in both groups hold a **bachelor's degree**, followed by those with a master's degree. Individuals with higher degrees such as a Ph.D. are less common among the developers in our study. Regarding the age of developers, most fall within **the 25-34 age range**, with the 35-44 age group ranking second.
 
