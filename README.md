@@ -25,7 +25,7 @@ These steps are gone through in remarkable details. For example these piecharts 
 
 ![some influence developers piechart](images/some_pie.png)
 
-Or these are heatmaps of correlation calculated:
+Or these are heatmaps of correlations calculated:
 
 ![high influence developers heatmap](images/high_heatmap.png)
 
