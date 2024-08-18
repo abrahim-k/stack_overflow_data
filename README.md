@@ -25,13 +25,13 @@ These steps are gone through in remarkable details. For example these piecharts 
 
 ![some influence developers piechart](images/some_pie.png)
 
-And these are heatmaps of correlation calculated:
+Or these are heatmaps of correlation calculated:
 
 ![high influence developers heatmap](images/high_heatmap.png)
 
 ![high influence developers heatmap](images/some_heatmap.png)
 
-And this the conclusion we reachead finally:
+And this is the conclusion we reachead finally:
 
 Firstly, we know that vast majority of both groups of developers work **full-time**; second comes self-employed developers and part-time employees do not have much saying when it comes to purchasing new technologies. Moreover, the vast majority of developers fall into one of three categories: full-stack developers, back-end developers, or front-end developers. Among those with a high influence, **full-stack developers** are more prevalent, while among those with some influence, the majority are **back-end developers**. The majority of those with high influence have **eight years** of professional experience, while those with some influence typically have **five years**. Additionally, the majority of developers in both groups hold a **bachelor's degree**, followed by those with a master's degree. Individuals with higher degrees such as a Ph.D. are less common among the developers in our study. Regarding the age of developers, most fall within **the 25-34 age range**, with the 35-44 age group ranking second.
 
