@@ -2,6 +2,8 @@
 
 This project includes a Exploratory Data Analysis (EDA) of responses gathered in Stack Overflow Annual Developers' Survey in May 2023. Here, we focus on **Iranian developers** who have responded to the survey and we are going to extract and visualize some useful data about developers who have a significant impact on **the purchase of new technologies** in their organization. The dataset is taken from [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/); also, CSV files of other years from 2011 are available there.
 
+### It is worth noting that packages `numpy`, `pandas`, `matplotlib` and `seaborn` are used from Python Data Stack.
+
 This analysis can be valuable for those companies aiming to sell tech products to software companies and freelance developers in Iran. To achieve this goal, we will focus on three categories of questions:
 
 - What is the education, work experience, field of work, and programming language of developers who are effective in technology purchases?
