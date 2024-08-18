@@ -2,7 +2,7 @@
 
 This project includes a Exploratory Data Analysis (EDA) of responses gathered in Stack Overflow Annual Developers' Survey in May 2023. Here, we focus on **Iranian developers** who have responded to the survey and we are going to extract and visualize some useful data about developers who have a significant impact on **the purchase of new technologies** in their organization. The dataset is taken from [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/); also, CSV files of other years from 2011 are available there.
 
-##### It is worth noting that packages `numpy`, `pandas`, `matplotlib` and `seaborn` are used from Python Data Stack in this project.
+#### It is worth noting that packages `numpy`, `pandas`, `matplotlib` and `seaborn` are used from Python Data Stack in this project.
 
 This analysis can be valuable for those companies aiming to sell tech products to software companies and freelance developers in Iran. To achieve this goal, we will focus on three categories of questions:
 
@@ -19,7 +19,7 @@ This project has four steps:
 3. Handling and visualizing data
 4. Conclusion
 
-These steps are gone through in remarkable details. For example these piecharts show appoarches developers use when trying to find the most suitable new technology:
+These steps are gone through in remarkable details. For example, these piecharts show approaches developers use when trying to find the most suitable new technologies:
 
 ![high influence developers piechart](images/high_pie.png)
 
@@ -39,4 +39,4 @@ Secondly, among developers with high influence, **JavaScript**, **Python**, **HT
 
 Thirdly and most importantly, the vast majority of Iranian developers **investigate new technologies themselves** and are not given a list of them; while the most suitable approaches for them to find appropriate technologies are, in order, **using a free trial**, **exploring developer communities**, and **asking developers they personally know**.
 
-Finally, it must be noted that correlation has only been found between the age and professional experience yeays of developers. **No simple correlations exist** between income, the number of employees in the organization, or between these two factors and the previous two. Hopefully, this analysis provides a useful initial perspective for those who intend to sell new information technology in Iran.
+Finally, it must be noted that correlation has only been found between the age and professional experience years of developers. **No simple correlations exist** between income, the number of employees in the organization, or between these two factors and the previous two. Hopefully, this analysis provides a useful initial perspective for those who intend to sell new information technology in Iran.
